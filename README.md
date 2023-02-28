@@ -2,8 +2,6 @@
 Mastering the Art of Prompt Engineering with ChatGPT
 
 
-# PowerShell
-
 ###  The Power of Prompting: Mastering the Art of Prompt Engineering with ChatGPT
 
 
