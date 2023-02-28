@@ -5,9 +5,8 @@ Mastering the Art of Prompt Engineering with ChatGPT
 ###  The Power of Prompting: Mastering the Art of Prompt Engineering with ChatGPT
 
 
-
 ## About the book
-<a target="_blank" href="https://read.amazon.co.uk/kp/embed?asin=B08J3JSP2Y&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_eZCyFb37NG3ND">
+<a target="_blank" href="https://read.amazon.co.uk/?ref_=dbs_p_ebk_r00_pbcb_rnvc00&_encoding=UTF8&asin=B0BWMK5DKJ">
   <img src="/ChatGPT_Cover.jpg" alt="Book Cover" width="200" align="left"/>
 </a>
 
